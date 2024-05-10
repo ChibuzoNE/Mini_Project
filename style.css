@@ -79,7 +79,7 @@
 }
 
 .menu li, a{
-    color: white;
+    color: red;
     list-style: none;
     text-decoration: none;
     text-align:end;
