@@ -107,6 +107,8 @@
         justify-content: space-between;
         margin-left: 10px;
     }
+    .main-content{
+        color: white;
 }
 
 @media only screen and (min-width: 601px) {
